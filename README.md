@@ -38,7 +38,7 @@ File Description:
 
 ## License
 
-The project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
